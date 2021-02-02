@@ -1,3 +1,4 @@
 mlflow==1.9.1
 transformers==2.8.0
 torchcontrib
+urllib3
